@@ -78,7 +78,6 @@ EasyChair submission link [https://easychair.org/conferences?conf=swarmaware2025
 
 * João Leitão (NOVA University Lisbon, Portugal)
 * Miloš Simić (University of Novi Sad, Serbia)
-* Akis Kourtis (National Centre of Scientific Research "Demokritos”, Greece)
 * George Xilouris (National Centre of Scientific Research "Demokritos”, Greece)
 * Giorgia Azzurra Marson (NEC Laboratories Europe, Switzerland)
 * George Alexandridis (National and Kapodistrian University of Athens, Greece)

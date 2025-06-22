@@ -63,8 +63,8 @@ The SwarmAware workshop will convene interdisciplinary communities to address fo
 Accepted full papers will be published under the same conditions as the main SRDS conference proceedings.
 Please note that talk abstracts and Posters submitted solely for presentation purposes will not be published but will be featured in a dedicated talk or poster session during the workshop.
 
-### Submission Platform
-EasyChair submission system (to appear soon).
+### Submission Link
+EasyChair submission link [https://easychair.org/conferences?conf=swarmaware2025](https://easychair.org/conferences?conf=swarmaware2025)
 
 ## Organizing Committee
 

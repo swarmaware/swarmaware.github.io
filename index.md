@@ -17,6 +17,7 @@ SwarmAware 2025 is a workshop of [SRDS 2025](https://srds-conference.org/), the 
 ## Program 
 
 ### Monday September 29th
+
 | Time   | Session |
 | :---: | :---: |
 | 09:30-09:35 | Welcome | 

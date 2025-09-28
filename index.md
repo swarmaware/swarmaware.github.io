@@ -6,11 +6,59 @@ SwarmAware 2025 is a workshop of [SRDS 2025](https://srds-conference.org/), the 
 
 ### Quick Links:
 
-* [Scope & Call for Papers](#scope--call-for-papers) 
+* [Program](#program)
+* [Accepted Papers](#accepted-papers) 
+* [Scope & Call for Papers](#scope-call-for-papers) 
 * [Important Dates](#important-dates)
 * [Submission Guidelines](#submission-guidelines)  
 * [Organizing Committee](#organizing-committee)  
 * [Program Committee](#program-committee)
+
+## Program 
+
+### Monday September 29th
+| Time   | Session |
+| :---: | :---: |
+| 09:30-09:35 | Welcome | 
+| 11:00-12:00 | **Session 1 - Invited Talk** |
+| 09:35-10:30 | [Carlos Baquero](https://cbaquero.github.io/web/):   Efficient synchronization of sets and CRDTs | 
+| **10:30-11:00** | **Coffee break** |
+| 11:00-12:00 | **Session 2 - UAV** |
+| 11:00-11:20 | Integrated Tracking and Peripheral Vision in a UAV Architecture for Search-and-Rescue Operations |
+| 11:20-11:40 | A Scalable Swarm Intelligence Algorithm for Autonomous UAV Search and Rescue Operations (online) |
+| 11:40-12:00 | A distributed UAV analytics framework for DAO-based swarm systems|
+| 12:00-13:00 | **Session 3 - Use cases** |
+| 12:00-12:30 | P2Code ([https://p2code-project.](https://p2code-project.eu/) |
+| 12:30-13:00 | OASEES ([https://oasees-project.eu/](https://oasees-project.eu/))
+| **13:00-14:00** | **Lunch break** |
+| 14:00-15:00   | **Session 4 - Federated learning** |
+| 14:00-14:20 | Federated Learning at the Edge for Wind Turbine Predictive Maintenance |
+| 14:20-14:40 | CyberNEMO: Enhancing End-to-End Cybersecurity and Privacy in the IoT-Edge-Cloud Continuum |
+| 14:40-15:00 | Optimizing Task Allocation in the Cloud-Edge Continuum: A Deep Reinforcement Learning and Graph Neural Network Approach |
+| 15:00-16:00   | **Session 5** |
+| 15:00-15:20 | Enhancing Airport Safety through Real-Time Detection of Personnel Near Aircraft Using Machine Learning |
+| 15:20-15:40 | Designing Swarm-based Decentralised Systems: Requirements for Performance and Scalability |
+| 15:40-16:00 | Wrap-up session |
+| **16:30** | **Welcome reception** | 
+
+## Accepted Papers 
+
+ - Odysseas Ntousis, Evangelos Makris, Ioannis Poulakis, Panayiotis Tsanakas and Christos Pavlatos. **Integrated Tracking and Peripheral Vision in a UAV Architecture for Search-and-Rescue Operations**
+ 
+- Javier Saez-Perez, Julio Diez-Tomillo, Pablo Benlloch-Caballero, Pablo Salva-Garcia and Qi Wang.   **A Scalable Swarm Intelligence Algorithm for Autonomous UAV Search and Rescue Operations**
+
+- Averkios Vasalos, Achileas Economopoulos, Andreas Oikonomakis, Abhinaba Chakraborty, Michail-Alexandros Kourtis, Georgios Alexandridis, Wouter Tavernier, George Xilouris, Ioannis Chochliouros, Ioannis Vasalos and Panagiotis Trakadas. **A distributed UAV analytics framework for DAO-based swarm systems**
+
+- Charis Michailidis, Alexandros Kalafatelis, Georgios Alexandridis, Averkios Vasalos, Andreas Oikonomakis, Achileas Economopoulos, Andrea Carolina Fontalvo Echavez, Daniel Iglesias Canelo, Michail-Alexandros Kourtis and Panagiotis Trakadas. **Federated Learning at the Edge for Wind Turbine Predictive Maintenance**
+
+- Ioannis Chochliouros, Maria Belesioti, Theodore Zahariadis, Artemis Voulkidis, Ilias Seitanidis, Andreas Papadakis, Alberto del Rio, Javier Serrano, David Jimenez, Antonio Pastor, Diego R. Lopez, Alejandro Muniz, Mattin A. Elorza Forcada, Ana Mendez, Wafa Ben Jaballah, Rosaria Rossini, Marco Angelini, Vasileios Megalooikonomou, Carmela Occhipinti, Luigi Briguglio, Alexandru Plesa, Vladut Dinu, Mohammad Ghoreishi, Mostafa Jabari, Dimitrios Skias, Konstantinos Sakatis and Ioannis Papaefstathiou. **CyberNEMO: Enhancing End-to-End Cybersecurity and Privacy in the IoT-Edge-Cloud Continuum**
+
+- Thanasis Kotsiopoulos, Alexandros Nizamis, Jaime Flor, Matilde Julian, Carlos E. Palau, Konstantinos Votis, Dimitrios Tzovaras and Panagiotis Sarigiannidis. **Optimizing Task Allocation in the Cloud-Edge Continuum: A Deep Reinforcement Learning and Graph Neural Network Approach**
+
+- Theodoros Theocharis, Evangelos Makris, George Fotis and Christos Pavlatos. **Enhancing Airport Safety through Real-Time Detection of Personnel Near Aircraft Using Machine Learning**
+
+- Abhinaba Chakraborty, Didier Colle, Mario Pickavet, Enrique Areizaga, Akis Kourtis, Andreas Oikonomakis, Adnan Imeri and Wouter Tavernier. **Designing Swarm-based Decentralised Systems: Requirements for Performance and Scalability**
+
 
 ## Scope & Call for Papers
 
@@ -63,8 +111,8 @@ The SwarmAware workshop will convene interdisciplinary communities to address fo
 Accepted full papers will be published under the same conditions as the main SRDS conference proceedings.
 Please note that talk abstracts and Posters submitted solely for presentation purposes will not be published but will be featured in a dedicated talk or poster session during the workshop.
 
-### Submission Link
-EasyChair submission link [https://easychair.org/conferences?conf=swarmaware2025](https://easychair.org/conferences?conf=swarmaware2025)
+### Submission Platform
+EasyChair submission system (to appear soon).
 
 ## Organizing Committee
 
@@ -78,6 +126,7 @@ EasyChair submission link [https://easychair.org/conferences?conf=swarmaware2025
 
 * João Leitão (NOVA University Lisbon, Portugal)
 * Miloš Simić (University of Novi Sad, Serbia)
+* Akis Kourtis (National Centre of Scientific Research "Demokritos”, Greece)
 * George Xilouris (National Centre of Scientific Research "Demokritos”, Greece)
 * Giorgia Azzurra Marson (NEC Laboratories Europe, Switzerland)
 * George Alexandridis (National and Kapodistrian University of Athens, Greece)

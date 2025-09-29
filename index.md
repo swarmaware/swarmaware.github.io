@@ -20,7 +20,7 @@ SwarmAware 2025 is a workshop of [SRDS 2025](https://srds-conference.org/), the 
 
 | Time   | Session |
 | :---: | :---: |
-| 09:30-09:35 | Welcome | 
+| 09:30-09:35 | Welcome (Room L2.2) | 
 | 11:00-12:00 | **Session 1 - Invited Talk** |
 | 09:35-10:30 | [Carlos Baquero](https://cbaquero.github.io/web/):   Efficient synchronization of sets and CRDTs | 
 | **10:30-11:00** | **Coffee break** |
@@ -34,8 +34,8 @@ SwarmAware 2025 is a workshop of [SRDS 2025](https://srds-conference.org/), the 
 | 12:40-13:00 | Optimizing Task Allocation in the Cloud-Edge Continuum: A Deep Reinforcement Learning and Graph Neural Network Approach |
 | **13:00-14:00** | **Lunch break** |
 | 14:00-15:00   | **Session 4 - Use Cases** |
-| 14:00-14:30 | OASEES ([https://oasees-project.eu/](https://oasees-project.eu/) |
-| 14:30-15:00 | P2Code https://p2code-project.eu/ |
+| 14:00-14:30 | OASEES ([https://oasees-project.eu/](https://oasees-project.eu/)) |
+| 14:30-15:00 | P2Code ([https://p2code-project.eu/](https://p2code-project.eu/)) |
 | 15:00-16:00   | **Session 5** |
 | 15:00-15:20 | Enhancing Airport Safety through Real-Time Detection of Personnel Near Aircraft Using Machine Learning |
 | 15:20-15:40 | Integrated Tracking and Peripheral Vision in a UAV Architecture for Search-and-Rescue Operations|

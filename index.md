@@ -25,7 +25,7 @@ SwarmAware 2025 is a workshop of [SRDS 2025](https://srds-conference.org/), the 
 | 09:35-10:30 | [Carlos Baquero](https://cbaquero.github.io/web/):   Efficient synchronization of sets and CRDTs | 
 | **10:30-11:00** | **Coffee break** |
 | 11:00-12:00 | **Session 2 - UAV** |
-| 11:00-11:20 | Integrated Tracking and Peripheral Vision in a UAV Architecture for Search-and-Rescue Operations |
+| 11:00-11:20 | Designing Swarm-based Decentralised Systems: Requirements for Performance and Scalability  |
 | 11:20-11:40 | A Scalable Swarm Intelligence Algorithm for Autonomous UAV Search and Rescue Operations (online) |
 | 11:40-12:00 | A distributed UAV analytics framework for DAO-based swarm systems|
 | 12:00-13:00 | **Session 3 - Use cases** |
@@ -38,7 +38,7 @@ SwarmAware 2025 is a workshop of [SRDS 2025](https://srds-conference.org/), the 
 | 14:40-15:00 | Optimizing Task Allocation in the Cloud-Edge Continuum: A Deep Reinforcement Learning and Graph Neural Network Approach |
 | 15:00-16:00   | **Session 5** |
 | 15:00-15:20 | Enhancing Airport Safety through Real-Time Detection of Personnel Near Aircraft Using Machine Learning |
-| 15:20-15:40 | Designing Swarm-based Decentralised Systems: Requirements for Performance and Scalability |
+| 15:20-15:40 | Integrated Tracking and Peripheral Vision in a UAV Architecture for Search-and-Rescue Operations|
 | 15:40-16:00 | Wrap-up session |
 | **16:30** | **Welcome reception** | 
 

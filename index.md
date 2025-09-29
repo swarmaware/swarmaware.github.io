@@ -28,14 +28,14 @@ SwarmAware 2025 is a workshop of [SRDS 2025](https://srds-conference.org/), the 
 | 11:00-11:20 | Designing Swarm-based Decentralised Systems: Requirements for Performance and Scalability  |
 | 11:20-11:40 | A Scalable Swarm Intelligence Algorithm for Autonomous UAV Search and Rescue Operations (online) |
 | 11:40-12:00 | A distributed UAV analytics framework for DAO-based swarm systems|
-| 12:00-13:00 | **Session 3 - Use cases** |
-| 12:00-12:30 | P2Code ([https://p2code-project.](https://p2code-project.eu/) |
-| 12:30-13:00 | OASEES ([https://oasees-project.eu/](https://oasees-project.eu/))
+| 12:00-13:00 | **Session 3 - Federated learning** |
+| 12:00-12:20 | Federated Learning at the Edge for Wind Turbine Predictive Maintenance |
+| 12:20-12:40 | CyberNEMO: Enhancing End-to-End Cybersecurity and Privacy in the IoT-Edge-Cloud Continuum |
+| 12:40-13:00 | Optimizing Task Allocation in the Cloud-Edge Continuum: A Deep Reinforcement Learning and Graph Neural Network Approach |
 | **13:00-14:00** | **Lunch break** |
-| 14:00-15:00   | **Session 4 - Federated learning** |
-| 14:00-14:20 | Federated Learning at the Edge for Wind Turbine Predictive Maintenance |
-| 14:20-14:40 | CyberNEMO: Enhancing End-to-End Cybersecurity and Privacy in the IoT-Edge-Cloud Continuum |
-| 14:40-15:00 | Optimizing Task Allocation in the Cloud-Edge Continuum: A Deep Reinforcement Learning and Graph Neural Network Approach |
+| 14:00-15:00   | **Session 4 - Use Cases** |
+| 14:00-14:30 | OASEES ([https://oasees-project.eu/](https://oasees-project.eu/) |
+| 14:30-15:00 | P2Code ([https://p2code-project.eu/])(https://p2code-project.eu/) |
 | 15:00-16:00   | **Session 5** |
 | 15:00-15:20 | Enhancing Airport Safety through Real-Time Detection of Personnel Near Aircraft Using Machine Learning |
 | 15:20-15:40 | Integrated Tracking and Peripheral Vision in a UAV Architecture for Search-and-Rescue Operations|
